@@ -4107,7 +4107,7 @@ toggleRef = RagdollGroup:AddToggle("LoopBananaRagdollOrion", {
             stopLoop()
         end
     end
-}
+})
 -- ==========================================
 -- 初期化
 -- ==========================================
